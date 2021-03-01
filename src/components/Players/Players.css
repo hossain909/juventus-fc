@@ -1,0 +1,19 @@
+.player-info {
+  background-color: #000;
+  color: #fff;
+  width: 300px;
+  justify-content: center;
+  border-radius: 10px;
+}
+img {
+  width: 250px;
+  height: 200px;
+}
+button {
+  background-color: #fe7302;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-size: 16px;
+}
